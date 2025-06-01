@@ -96,6 +96,6 @@ __Создать веб-приложение, где пользователи м
 - [ ] Страница "Мои события"  
 - [ ] Уведомления (например, о приближении события)
 
-## ✏️ Referefces
+## ✏️ References
 
 ### ✨ Figma макет — [ссылка](https://www.figma.com/design/5J82zrve5jpHIjwKRAPaNZ/Eventify---An-Event-Finder-Website----EventJoy---A-small-Event-Planning-app--Community-?node-id=0-1&p=f&t=7QGpCI0ctKRSFivs-0)
