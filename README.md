@@ -12,17 +12,11 @@ __Создать веб-приложение, где пользователи м
 - просматривать свои регистрации и события.
 
 ## 🧩 Стек технологий
-
-### 📱 Frontend:
   - Framework and lang: React, Next.js (App Router), TypeScript
   - State: Zustand
   - Forms: React Hook Form + Zod
   - Data fetching: TanStack Query
   - UI: TailwindCSS, shadcn/ui or other
-### 💾 Backend (на выбор):
-  - mockapi.io (для MVP),
-  - Supabase / Firebase,
-  - собственный Next.js API.
 
 ## 📋 ToDo по проекту 
 ### Backend
