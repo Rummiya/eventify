@@ -100,5 +100,5 @@ __Создать веб-приложение, где пользователи м
 
 ## ✏️ References
 
-✨ Figma макет — [ссылка](https://www.figma.com/design/5J82zrve5jpHIjwKRAPaNZ/Eventify---An-Event-Finder-Website----EventJoy---A-small-Event-Planning-app--Community-?node-id=0-1&p=f&t=7QGpCI0ctKRSFivs-0). 
-⚙️ Backend – [перейти на репо сервера](https://github.com/Rummiya/eventify-api)
+✨ Figma макет — [ссылка](https://www.figma.com/design/5J82zrve5jpHIjwKRAPaNZ/Eventify---An-Event-Finder-Website----EventJoy---A-small-Event-Planning-app--Community-?node-id=0-1&p=f&t=7QGpCI0ctKRSFivs-0)    
+⚙️ Backend – [перейти в репо сервера](https://github.com/Rummiya/eventify-api)
